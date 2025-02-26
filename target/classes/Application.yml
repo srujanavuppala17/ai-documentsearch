@@ -1,7 +1,0 @@
-pinecone:
-  index-url: https://document-db-p2mqcao.svc.aped-4627-b74a.pinecone.io
-  api-key: pcsk_2aFVrZ_F7g5y76bT7P4KmdRPnGisCqzJ22wo6wcw5CHMz4qnUcaHC3maPCHZbME7rVeubk
-
-openai:
-  api-url: https://api.openai.com/v1
-  api-key: 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
