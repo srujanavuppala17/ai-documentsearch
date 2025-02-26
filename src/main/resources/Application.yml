@@ -1,0 +1,7 @@
+pinecone:
+  index-url: <index-url>
+  api-key: <key>
+
+openai:
+  api-url: https://api.openai.com/v1
+  api-key: <key>

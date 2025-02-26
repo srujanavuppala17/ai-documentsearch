@@ -1,0 +1,16 @@
+Invoice #002
+Date: 2025-02-01
+
+Billed To:
+XYZ Enterprises
+456 Commerce Street
+Commerce City, CC 67890
+
+Description of Services:
+- IT consulting and system integration services
+
+Subtotal: $5000.00
+Tax (8%): $400.00
+Total: $5400.00
+
+We appreciate your prompt payment.
