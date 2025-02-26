@@ -1,0 +1,16 @@
+Invoice #001
+Date: 2025-01-15
+
+Billed To:
+Acme Corporation
+123 Business Road
+Business City, BC 54321
+
+Description of Services:
+- Web development services for corporate website redesign
+
+Subtotal: $3000.00
+Tax (10%): $300.00
+Total: $3300.00
+
+Thank you for your business!
